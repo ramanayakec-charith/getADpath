@@ -1,0 +1,14 @@
+E:\SYSTEMS\solution\Newboard\GETADDLL\GetADPath\GetADPath\bin\Debug\GetADPath.dll
+E:\SYSTEMS\solution\Newboard\GETADDLL\GetADPath\GetADPath\bin\Debug\GetADPath.pdb
+E:\SYSTEMS\solution\Newboard\GETADDLL\GetADPath\GetADPath\obj\Debug\GetADPath.csprojResolveAssemblyReference.cache
+E:\SYSTEMS\solution\Newboard\GETADDLL\GetADPath\GetADPath\obj\Debug\GetADPath.dll
+E:\SYSTEMS\solution\Newboard\GETADDLL\GetADPath\GetADPath\obj\Debug\GetADPath.pdb
+\\192.168.5.250\ptx_systems$\solution\Newboard\GETADDLL\GetADPath\GetADPath\bin\Debug\GetADPath.dll
+\\192.168.5.250\ptx_systems$\solution\Newboard\GETADDLL\GetADPath\GetADPath\bin\Debug\GetADPath.pdb
+\\192.168.5.250\ptx_systems$\solution\Newboard\GETADDLL\GetADPath\GetADPath\obj\Debug\GetADPath.csprojResolveAssemblyReference.cache
+\\192.168.5.250\ptx_systems$\solution\Newboard\GETADDLL\GetADPath\GetADPath\obj\Debug\GetADPath.dll
+\\192.168.5.250\ptx_systems$\solution\Newboard\GETADDLL\GetADPath\GetADPath\obj\Debug\GetADPath.pdb
+E:\SYSTEMS\NEWPC\for Git\GetADPath\GetADPath\bin\Debug\GetADPath.dll
+E:\SYSTEMS\NEWPC\for Git\GetADPath\GetADPath\bin\Debug\GetADPath.pdb
+E:\SYSTEMS\NEWPC\for Git\GetADPath\GetADPath\obj\Debug\GetADPath.dll
+E:\SYSTEMS\NEWPC\for Git\GetADPath\GetADPath\obj\Debug\GetADPath.pdb
