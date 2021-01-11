@@ -45,6 +45,7 @@ namespace GetADPath
                 }
             }
             //cheks domain name matched with  domain2
+                //est
             else if (addomain[0].ToUpper() == "domain2")
             {
                 ctx = new PrincipalContext(ContextType.Domain, addomain[0].ToUpper());
