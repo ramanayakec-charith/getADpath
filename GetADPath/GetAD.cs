@@ -41,7 +41,7 @@ namespace GetADPath
                     else
                     {
                         return ADPATH;
-                        //
+                      
                      
                     }
                 }
